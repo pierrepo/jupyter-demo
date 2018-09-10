@@ -4,6 +4,7 @@ channels:
     - bioconda
     - r
 dependencies:
+    - numpy
     - scipy
     - pandas
     - matplotlib
