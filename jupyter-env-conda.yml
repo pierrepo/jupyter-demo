@@ -1,0 +1,15 @@
+name: jupyter-env
+channels:
+    - conda-forge
+    - bioconda
+    - r
+dependencies:
+    - scipy
+    - pandas
+    - matplotlib
+    - biopython
+    - jupyter
+    - jupyterlab
+    - r-essentials
+    - rpy2
+    - ipywidgets
